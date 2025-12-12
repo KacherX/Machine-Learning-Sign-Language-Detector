@@ -16,6 +16,9 @@ Hand detection model extracts key landmarks from the image.
 Features are fed into a machine learning classifier.
 The system predicts the most likely sign language gesture.
 Output is displayed visually or printed in real-time.
+<img width="830" height="491" alt="screenshot" src="https://github.com/user-attachments/assets/1699644c-8984-4bfd-bbea-fb046922f6cd" />
+
+
 
 Technologies Used:
 Python
