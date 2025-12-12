@@ -29,6 +29,5 @@ Learning pipeline building for gesture recognition
 Educational projects for computer vision and machine learning
 Real-time interactive sign language tools
 
-Disclaimer
-
+Disclaimer:
 This project is intended for educational and experimental use. Gesture recognition accuracy depends on dataset quality, environment, and model complexity. It should not be used as a substitute for professional sign language interpretation.
